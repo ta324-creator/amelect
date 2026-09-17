@@ -1,0 +1,360 @@
+Act as a senior award-winning website art director, UI/UX designer, and brand designer specializing in premium service-business websites.
+
+I want you to redesign the INDEX/HERO section of my electrician website from a visual-design perspective.
+
+IMPORTANT:
+Do NOT simply rearrange the existing elements.
+Do NOT make it look like a generic electrician template.
+Do NOT add random gradients, glowing effects, excessive cards, or unnecessary animations.
+
+The current design feels visually cluttered, disconnected, and poorly organized. I want you to rethink the composition from the ground up while keeping the existing brand identity.
+
+BRAND:
+AM Electrical
+Location: Orange County, California
+Services: Residential, Commercial, Industrial
+Established: 1989
+37+ years of field experience
+California License: #681767
+Bonded & Insured
+24-hour emergency service
+Phone: 714.931.6980
+
+CURRENT BRAND LANGUAGE:
+- Black
+- White
+- Red
+- Industrial
+- Mature / experienced
+- Professional
+- Hard-working
+- Electrician / field-service aesthetic
+- Slight punk / raw texture is acceptable, but it must feel intentional and premium
+
+DESIGN DIRECTION:
+
+Think:
+"Established Southern California electrical contractor with serious field experience."
+
+NOT:
+"Modern startup electrician."
+NOT:
+"Cheap local contractor template."
+NOT:
+"Overdesigned cyberpunk electrician."
+
+The website should feel like a company that has been doing electrical work since 1989 and doesn't need to prove itself with gimmicks.
+
+VISUAL HIERARCHY:
+
+The hero needs ONE dominant focal point.
+
+The user's eye should move naturally in this order:
+
+1. AM Electrical branding
+2. Main value proposition
+3. Supporting credibility statement
+4. Primary CTA
+5. Secondary CTA / phone
+6. Supporting visual details
+
+Everything else should be subordinate.
+
+HERO IMAGE:
+
+The current aerial Lake Forest image can remain if it is visually strong, but it needs to be treated as a supporting environmental image rather than competing with the typography.
+
+Create a much more sophisticated image treatment.
+
+Use:
+- Dark cinematic grading
+- Strong contrast
+- Subtle black overlay
+- Slight industrial/punk texture
+- Controlled grain
+- Subtle vignette
+- Very restrained red accents
+
+The image should feel photographic and premium, not like a stock-photo banner.
+
+If appropriate, use a darkened architectural/electrical texture or subtle electrical-work imagery within the composition, but do NOT create a collage of random electrician photos.
+
+LAYOUT:
+
+Create a clean, intentional hero composition.
+
+I want generous negative space.
+
+The main headline should sit inside a clearly defined content column rather than floating awkwardly over the image.
+
+Suggested structure:
+
+TOP:
+Minimal navigation/header with strong spacing.
+
+LEFT / CENTER:
+Small location or credibility eyebrow:
+"ORANGE COUNTY, CALIFORNIA"
+
+Large headline:
+"POWERING WHAT
+MATTERS.
+SINCE 1989."
+
+The headline should be bold, condensed, editorial, and authoritative.
+
+Below it:
+"Commercial, industrial and residential electrical work, backed by decades of field experience."
+
+Then:
+[ REQUEST SERVICE ]   [ 714.931.6980 ]
+
+RIGHT SIDE:
+A restrained credibility block containing only the most important trust signals:
+
+37+ YEARS
+IN THE FIELD
+
+LICENSED
+CA #681767
+
+BONDED &
+INSURED
+
+24-HOUR
+EMERGENCY SERVICE
+
+Do NOT make this look like a generic glassmorphism dashboard.
+
+It should feel more like a premium editorial information panel or technical field specification.
+
+HEADER:
+
+The current header is too small and visually lost inside the photograph.
+
+Create a strong, clean navigation system.
+
+Logo should have enough breathing room.
+
+Navigation:
+Residential
+Commercial
+Projects
+About
+Bonded & Insured
+Contact
+
+Phone number should be clearly visible but should NOT compete with the hero headline.
+
+Consider a subtle dark header area or a very controlled transparent header rather than simply placing tiny white text over a busy photograph.
+
+RED:
+
+Red is an accent, NOT the primary design language.
+
+Use red strategically for:
+- Primary CTA
+- Small active states
+- Tiny technical details
+- Emergency indicator
+- Brand accents
+
+Do NOT put red everywhere.
+
+Remove or redesign the giant lightning bolt currently sitting on the right edge.
+
+The existing lightning bolt looks disconnected from the composition and feels like a decorative element rather than part of the brand system.
+
+If a lightning motif is retained, make it subtle and integrated into the layout.
+
+EMERGENCY SERVICE:
+
+The current vertical "24-HOUR EMERGENCY" tab feels like a random UI widget.
+
+Redesign it into something much more intentional.
+
+Possible direction:
+A slim vertical emergency marker aligned perfectly with the page grid.
+
+Example:
+
+24-HOUR
+EMERGENCY
+714.931.6980
+
+It should feel like part of the visual identity, not a floating website plugin.
+
+TYPOGRAPHY:
+
+Typography is extremely important.
+
+Use a strong condensed display typeface for the main headline.
+
+The headline should feel similar to:
+- industrial editorial typography
+- motorsport typography
+- old-school technical signage
+- premium contractor branding
+
+But avoid fonts that look cheap, cartoonish, or overly "construction themed."
+
+Supporting typography should be clean and highly readable.
+
+Create a clear contrast between:
+DISPLAY TYPE
+BODY TYPE
+TECHNICAL LABELS
+
+Do not use too many fonts.
+
+GRID:
+
+Everything must follow a strict grid.
+
+Align:
+- Logo
+- Navigation
+- Hero eyebrow
+- Headline
+- Body copy
+- CTA buttons
+- Credibility panel
+
+The current design has elements that feel independently positioned.
+
+Fix this.
+
+Every major element should feel like it belongs to the same architectural system.
+
+SPACING:
+
+Increase the amount of negative space.
+
+Do not try to fill every part of the screen.
+
+Premium design comes from restraint.
+
+Avoid:
+- crowded cards
+- oversized decorative elements
+- unnecessary borders
+- excessive shadows
+- random floating UI
+- multiple competing focal points
+
+MOBILE:
+
+The desktop composition must translate intelligently to mobile.
+
+Do not simply stack every desktop element vertically.
+
+On mobile prioritize:
+
+Logo
+Navigation/menu
+Main headline
+CTA
+Phone
+Emergency service
+Credibility
+
+The background image should crop intentionally around the content.
+
+The headline must remain highly readable.
+
+OVERALL FEEL:
+
+The final result should feel like:
+
+"37 years of electrical experience, presented by a modern premium design studio."
+
+It should communicate:
+
+TRUST
+EXPERIENCE
+PRECISION
+PROFESSIONALISM
+LOCAL EXPERIENCE
+EMERGENCY AVAILABILITY
+
+without looking corporate, sterile, or generic.
+
+REFERENCE AESTHETIC:
+
+Imagine the intersection of:
+
+premium Southern California contractor
++
+industrial editorial design
++
+high-end automotive website
++
+technical field-service branding
++
+subtle punk concert poster energy
+
+Keep the punk influence extremely subtle through texture, typography, cropping, and composition — NOT through random graphics.
+
+CRITICAL DESIGN RULE:
+
+Every element needs a reason to exist.
+
+If an element does not improve:
+- hierarchy
+- trust
+- navigation
+- conversion
+- brand recognition
+- readability
+
+REMOVE IT.
+
+Before implementing, analyze the current screenshot and identify the 5 biggest visual problems.
+
+Then redesign the hero using those findings.
+
+Do not preserve the current layout simply because it already exists.
+
+The goal is a significant visual upgrade, not a cosmetic cleanup.
+
+Make it look like a professional agency redesigned the website. 
+
+****IMPLEMENTATION RULE:
+
+Before changing code, inspect the existing project structure, current CSS, fonts, image assets, logo assets, and responsive behavior.
+
+Do not rewrite unrelated sections of the website.
+
+Focus first on the homepage hero/header.
+
+Preserve existing functionality and links.
+
+After implementation, check the design at:
+- 1440px desktop
+- 1280px desktop
+- 1024px tablet
+- 768px tablet
+- 390px mobile
+
+The result must feel intentionally designed at every breakpoint.
+
+Do not stop at "technically working."
+Iterate on spacing, typography, alignment, image treatment, and hierarchy until the result looks professionally art-directed.
+
+/
+
+> Kill the "Field Data" card as it exists now. 
+Not because the information is bad — the information is actually useful. It's the presentation that's making the hero feel like a random UI dashboard.
+
+I'd turn it into something more like:
+
+37+
+YEARS IN THE FIELD
+
+CA #681767
+LICENSED • BONDED • INSURED
+
+24 HR
+EMERGENCY RESPONSE
+
+with thin rules and typography, integrated into the grid.
